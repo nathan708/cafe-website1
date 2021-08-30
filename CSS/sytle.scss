@@ -278,6 +278,8 @@ img {
 
 #contact {
   background-image: url(../images/contact-bg.jpg);
+  background-color:rgba(255,255,255,0.8);
+  background-blend-mode:lighten;
   min-height: 100vh;
 }
 
